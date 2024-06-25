@@ -1,0 +1,27 @@
+#ana-başlik{ color: #c73e1d;}
+body
+{
+    background-color: rgb(235, 212,203 );
+}
+.dotted-bold-divider{
+    border-top: 5px dashed #0E4749;
+    
+}
+h2{
+    color: rgba(0, 0, 255, .5);
+}
+
+    #container{
+        font-size: 25px;
+    }
+    .tablo-baş-madde{
+        width: 140px;
+        height: 60px;
+        background-color: chartreuse;
+        color: rebeccapurple;
+    }
+    
+     #tablo-çerçeve{
+      border-color: rgba(128, 255, 0, 0.527);
+     
+     } 
